@@ -1,14 +1,13 @@
 # Python_Blood_Cell_Detection
 This is for python-openCV code to detect and count human blood cells in microscopic image. If you are searching for python code to detect objects/bobs using image processing technique for your projects then you are on the track.
 
-<<<<<<<Tools>>>>>>>
->Linux 18.04 LTS
-  >Rufus software
-  >Ubuntu file
-  >Pendrive
-
->Python
->OpenCV
+ ""Tools""
+--Linux 18.04 LTS
+    --Rufus software
+    --Ubuntu file
+    --Pendrive
+--Python
+--OpenCV
 
 First you should install linux on your laptop. Linux is preinstalled with python and python3. There are lots of video that will give you the direction how installed linux on your PC. I am suggesting you to follow the video. Get the video link from the bellow.
 
