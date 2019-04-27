@@ -2,7 +2,7 @@
 This is for python-openCV code to detect and count human blood cells in microscopic image. If you are searching for python code to detect objects/bobs using image processing technique for your projects then you are on the track.
 
 <<<<<<<Tools>>>>>>>
->Linux
+>Linux 18.04 LTS
   >Rufus software
   >Ubuntu file
   >Pendrive
