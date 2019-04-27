@@ -20,7 +20,7 @@ First you should install linux on your laptop. Linux is preinstalled with python
 5. Install ubuntu on your PC >(see section 4 video)
 6. Install OpenCV >(follow this video. link:- https://www.youtube.com/watch?v=cGmGOi2kkJ4 )
 7. Install spyder python IDE >(link:- https://www.youtube.com/watch?v=DkKWP1LoR6I )
-8. Enjoy your coding 👍
+8. Enjoy your coding 👍 Happy coding.
 
 Let me know if you have any query.
 
